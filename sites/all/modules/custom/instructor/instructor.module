@@ -1,0 +1,7 @@
+ <?php
+/**
+ * @file
+ * Code for the Instructor feature.
+ */
+
+include_once 'instructor.features.inc';
